@@ -2,7 +2,10 @@
 
 Project 2
 
-To run
+To run in development:
+
+Start up a mongodb database then run:
+
 ```
 npm install
 npm start
